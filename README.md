@@ -1,7 +1,7 @@
 # Table of Contents
 - [Introduction](#introduction)
   - [Version](#version)
-  - [Changelog](Changelog.md)
+  - [Changelog](CHANGELOG.md)
 - [Specification](#specification)
   - [Minimum Requirement](#minimum-requirement)
   - [Test Enviroment](#test-enviroment)
