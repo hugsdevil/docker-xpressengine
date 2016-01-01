@@ -64,7 +64,7 @@ If you find this image useful here's how you can help:
 - Help new users with [Issues](https://github.com/hugsdevil/docker-xpressengine/issues) they may encounter
 
 # Issues
-Issue for xpressengine.
+Issues for xpressengine.
 
 - Unknown download naming for xe version
 - Configuration problem for DB, User, etc
